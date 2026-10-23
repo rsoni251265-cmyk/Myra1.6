@@ -1,0 +1,6 @@
+{
+  "name": "Heena AI",
+  "description": "Cute anime personal voice assistant with wake word, app controls, screen understanding, and smart conversational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

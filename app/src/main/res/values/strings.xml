@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Heena AI</string>
+    <string name="accessibility_service_description">Heena AI Screen Assistant helps you read on-screen text, explain visible UI elements, and execute voice-commanded navigation like scrolling when authorized.</string>
+    <string name="wake_word_default">Hello Heena</string>
+    <string name="notification_channel_name">Heena Voice Assistant</string>
+    <string name="notification_channel_desc">Active background wake-word listening service</string>
+    <string name="foreground_service_title">Heena AI is Active</string>
+    <string name="foreground_service_desc">Listening for \"Hello Heena\"</string>
+</resources>
